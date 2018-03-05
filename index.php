@@ -11,11 +11,5 @@
 	Le serveur
 </p>
 
-<?php 
-
-	echo 'test';
-
-?>
-
 </body>
 </html>
